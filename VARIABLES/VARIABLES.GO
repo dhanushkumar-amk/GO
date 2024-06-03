@@ -44,7 +44,7 @@ func main() {
   fmt.Println(x)
   
   
-//   //  Variable declaration with out initial value
+//   Variable declaration with out initial value
   func main() {
 	var a string
 	var b int
