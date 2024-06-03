@@ -133,7 +133,7 @@ fmt.Println(arr7)
 // 2:40 means: assign 40 to array index 2 (third element).
 
 
-// length 
+// to check y
 arr1 := [4]string{"Volvo", "BMW", "Ford", "Mazda"}
 arr2 := [...]int{1,2,3,4,5,6}
 
