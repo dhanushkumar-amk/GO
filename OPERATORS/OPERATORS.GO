@@ -37,6 +37,17 @@ fmt.Println( a % b) // modulus
   fmt.Println(x)
   
   
-  // assignment operator and shorthand assignment operatot 
+  // assignment operator and shorthand assignment operator
+  =	x = 5	x = 5	
++=	x += 3	x = x + 3	
+-=	x -= 3	x = x - 3	
+*=	x *= 3	x = x * 3	
+/=	x /= 3	x = x / 3	
+%=	x %= 3	x = x % 3	
+&=	x &= 3	x = x & 3	
+|=	x |= 3	x = x | 3	
+^=	x ^= 3	x = x ^ 3	
+>>=	x >>= 3	x = x >> 3	
+<<=	x <<= 3	x = x << 3 
 }
 
