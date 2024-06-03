@@ -42,8 +42,8 @@ func main() {
   // 2 => Create a Slice From an Array
   
   
-  var myarray = [length]datatype{values} // An array
-myslice := myarray[start:end] // A slice made from the array
+//   var myarray = [length]datatype{values} // An array
+// myslice := myarray[start:end] // A slice made from the array
 
 arr1 := [6]int{10, 11, 12, 13, 14,15}
 myslice := arr1[2:4]
