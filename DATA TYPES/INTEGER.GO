@@ -38,4 +38,8 @@ func main() {
 
 
 // 1byte = 8 bits 
+
+
+// Unsigned Integers
+Unsigned integers, declared with one of the uint keywords, can only store non-negative values:
 }
