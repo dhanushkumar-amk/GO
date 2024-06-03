@@ -112,6 +112,7 @@ func main() {
   fmt.Println(c)
 }
 
+// but declare the variable usi
 
 package main
 import ("fmt")
