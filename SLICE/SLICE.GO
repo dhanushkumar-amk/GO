@@ -37,4 +37,14 @@ func main() {
   fmt.Println(len(mySlice2)) // 4
   fmt.Println(cap(mySlice2))  // 4
   fmt.Println(mySlice2)// [Go Slices Are Powerful]
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  // Create a Slice From an Array
 }
