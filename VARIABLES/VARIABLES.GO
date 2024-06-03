@@ -5,6 +5,10 @@
 // ? 3 => type
 // ? 4 => func
 
+
+
+// rules for declaring
+
 // ! variable deceleration
 
 // package main
