@@ -40,6 +40,8 @@ fmt.Println(B)
 const C = 1
 C = 2
 fmt.Println(C)
+// error
+
 }
 
 
