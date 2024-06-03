@@ -44,4 +44,7 @@ func main() {
   
   var myarray = [length]datatype{values} // An array
 myslice := myarray[start:end] // A slice made from the array
+
+
+
 }
