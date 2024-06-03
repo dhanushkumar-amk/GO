@@ -109,8 +109,8 @@ fmt.Println("person : "   , person2[2])
 // array initialization
 // If an array or one of its elements has not been initialized in the code, it is assigned the default value of its type.
 
-arr1 := [5]int{} //not initialized
-  arr2 := [5]int{1,2} //partially initialized
+arr4 := [5]int{} //not initialized
+  arr5 := [5]int{1,2} //partially initialized
   arr3 := [5]int{1,2,3,4,5} //fully initialized
 
   fmt.Println(arr1)
