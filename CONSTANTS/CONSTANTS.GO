@@ -26,7 +26,7 @@ func main() {
 
 // typed constants
 // typed constants are declared with a defined type:
-
+const A int = 1
 fmt.Println(A)
 }
 
