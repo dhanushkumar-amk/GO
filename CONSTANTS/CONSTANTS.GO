@@ -26,8 +26,10 @@ func main() {
 
 // typed constants
 // typed constants are declared with a defined type:
-const A int = 1 // here we declare 
+const A int = 1 // here we declare int type
 fmt.Println(A)
+
+
 }
 
 
