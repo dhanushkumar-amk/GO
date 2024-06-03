@@ -16,3 +16,6 @@
 
 // slice_name := []datatype{values}
 //myslice := []int{}
+// myslice := []int{1,2,3}
+
+
