@@ -29,7 +29,8 @@ func main() {
   
   
   // constant types
-  
+//   Typed constants
+// Untyped constants
 }
 
 
