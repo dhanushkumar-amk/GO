@@ -51,6 +51,11 @@ func main() {
   
   fmt.Println(arr1)
    fmt.Println(arr2)
+   
+   
+   // output :
+   [1 2 3]
+// [4 5 6 7 8]
 }
  
  
