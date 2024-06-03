@@ -19,7 +19,7 @@
 
 // var array_name = [...]datatype{values} 
 // here length is inferred
-
+ //
 
 
 // 2 => 
