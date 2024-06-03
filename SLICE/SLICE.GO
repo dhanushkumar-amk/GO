@@ -70,10 +70,10 @@ var array = []int{1,2,3,4,5,6}
  fmt.Println(array[4])
  fmt.Println(array[5])
 
- 1
-2
-3
-4
-5
-6
+// 1
+// 2
+// 3
+// 4
+// 5
+// 6
 }
