@@ -122,7 +122,7 @@ arr4 := [5]int{} //not initialized
 // [1 2 0 0 0]
 // [1 2 3 4 5]
 
-arr1 := [5]int{1:10,2:40}
+arr7 := [5]int{1:10,2:40}
 fmt.Println(arr1)
 }
  
