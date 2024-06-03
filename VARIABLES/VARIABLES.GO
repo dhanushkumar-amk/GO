@@ -29,6 +29,8 @@
 
 // ! In this case, the type of the variable is inferred from the value (means that the compiler decides the type of the variable, based on the value)
 
+
+// ? Variable declaration and value assignment cannot be done separately (must be done in the same line)
 package main
 
 import (
