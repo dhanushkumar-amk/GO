@@ -33,8 +33,8 @@ func main() {
   fmt.Println(cap(mySlice1))
   fmt.Println(mySlice1)
 
-  myslice2 := []string{"Go", "Slices", "Are", "Powerful"}
-  fmt.Println(len(myslice2))
-  fmt.Println(cap(myslice2))
-  fmt.Println(myslice2)
+  mySlice2 := []string{"Go", "Slices", "Are", "Powerful"}
+  fmt.Println(len(mySlice2))
+  fmt.Println(cap(mySlice2))
+  fmt.Println(mySlice2)
 }
