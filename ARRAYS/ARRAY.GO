@@ -22,9 +22,9 @@
 
 
 
-2 => 
+// 2 => 
 
-array_name := [length]datatype{values} 
+// array_name := [length]datatype{values} 
 // here length is defined
 
 // or
