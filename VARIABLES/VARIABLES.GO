@@ -37,7 +37,7 @@ import (
 func main() {
   var student1 string = "John" //type is string
   
-  var student2 = "Jane" //type is inferred datatype can't be given because intial value 
+  var student2 = "Jane" //type is inferred datatype can't be given because initial value 
   
   
   x := 2 //type is inferred it mean the compiler decides the variable for the value
