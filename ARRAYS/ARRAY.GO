@@ -70,7 +70,8 @@ var person = [3]string{"Dhanush", "sanjayKumar", "ashwin"};
 fmt.Println("person : "   , person)
 
 
-// without definef length
+// without defined length
+
 
 
 
