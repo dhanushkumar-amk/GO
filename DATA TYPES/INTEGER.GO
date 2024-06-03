@@ -40,7 +40,7 @@ func main() {
 // 1byte = 8 bits 
 
 
-// Unsigned Integers  using uint 
+// Unsigned Integers  using uint = it does not contain any negative values
 // Unsigned integers, declared with one of the uint keywords, can only store non-negative values:
 
 var a uint = 500
