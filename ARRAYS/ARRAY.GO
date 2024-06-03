@@ -27,7 +27,7 @@
 array_name := [length]datatype{values} 
 // here length is defined
 
-or
+// or
 
-array_name := [...]datatype{values}
+// array_name := [...]datatype{values}
  // here length is inferred
