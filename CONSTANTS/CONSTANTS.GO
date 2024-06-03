@@ -63,9 +63,9 @@ fmt.Println(C)
 
 // we can also declare multiple const inside the same block
 const (
-	 int = 1
-	B = 3.14
-	C = "Hi!"
+	E int = 1
+	F = 3.14
+	G = "Hi!"
   )
 }
 
