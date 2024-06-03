@@ -56,5 +56,8 @@ fmt.Println("capacity = ", cap(myslice3))
 // length =  2  here myslice3 length is 2 because it hold only twi values
 // capacity =  4  here he slice can grow to the end of the array. This means that the capacity of the slice is 4.
 
-If myslice started from element 0, the slice capacity would be 6.
+// If myslice started from element 0, the slice capacity would be 6
+
+
+.
 }
