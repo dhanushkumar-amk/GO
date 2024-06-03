@@ -37,9 +37,9 @@ const B = 2  // here we can't declare the variable type
 fmt.Println(B)
 
 // constant variable can't be changed
-const c = 1
+const C = 1
 C = 2
-fmt.Println()
+fmt.Println(C)
 }
 
 
