@@ -68,6 +68,8 @@ const (
 	G = "Hi!"
   )
   fmt.Println(C)
+  fmt.Println(F)
+  fmt.Println(G)
 }
 
 
