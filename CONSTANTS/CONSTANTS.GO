@@ -4,5 +4,6 @@
 
 // The const keyword declares the variable as "constant", which means that it is unchangeable and read-only
 
-
+// syntax :
 // const CONSTNAME type = value
+
