@@ -89,5 +89,5 @@ array2[3] = 0;
 array2[4] = 0;
 
 fmt.Println(array2)
-[0 0 0 0 0 6]
+// [0 0 0 0 0 6]
 }
