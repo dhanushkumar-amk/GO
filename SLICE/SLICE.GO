@@ -24,5 +24,3 @@
 1 => len()  to display the length;
 2 => cap()  to display th capacity of the particular slice 
 
-// len() function - returns the length of the slice (the number of elements in the slice)
-// cap() function - returns the capacity of the slice (the number of elements the slice can grow or shrink to)
