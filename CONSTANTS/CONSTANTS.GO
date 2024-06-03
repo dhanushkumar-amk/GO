@@ -42,6 +42,10 @@ C = 2
 fmt.Println(C)
 // error
 // cannot assign to C
+
+
+
+// we can also declare 
 }
 
 
