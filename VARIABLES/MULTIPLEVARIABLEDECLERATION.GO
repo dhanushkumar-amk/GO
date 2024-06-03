@@ -19,5 +19,7 @@ func main() {
 // 5
 // 7
 
-// 
+// If the type keyword is not specified, you can declare different types of variables in the same line:
+
+var 
 }
