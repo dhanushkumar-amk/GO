@@ -52,7 +52,7 @@ func main() {
   
 	fmt.Println(a) // initial value empty 
 	fmt.Println(b)  // int => initial value  = 0
-	fmt.Println(c)   // boolean initial value = falkse
+	fmt.Println(c)   // boolean initial value = false
 }
 
 
