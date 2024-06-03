@@ -29,7 +29,7 @@
 
 // or
 
-// array_name := [...]datatype{values}    here the length defined 
+// array_name := [...]datatype{values}    here the length defined by [...
  // here length is inferred
 
  
