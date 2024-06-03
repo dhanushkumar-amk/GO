@@ -125,4 +125,7 @@ copy(numbersCopy, neededNumbers)
 fmt.Println("numbersCopy = ", numbersCopy)
 fmt.Println("length = ", len(numbersCopy))
 fmt.Println("capacity = ", cap(numbersCopy))
+
+
+// append one slice into another slice using 
 }
