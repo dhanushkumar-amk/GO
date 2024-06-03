@@ -18,3 +18,5 @@ func main() {
   fmt.Println(PI)
 }
 
+
+// constant types
