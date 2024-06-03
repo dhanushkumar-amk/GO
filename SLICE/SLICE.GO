@@ -5,8 +5,11 @@
 // However, unlike arrays, the length of a slice can grow and shrink as you see fit
 
 
-// declare slice in three different 
+// declare slice in three different ways 
 
 // Using the []datatype{values} format
 // Create a slice from an array
 // Using the make() function
+
+
+// 
