@@ -27,7 +27,7 @@ func main() {
   fmt.Printf("%v\n", i)    // %v for value
   fmt.Printf("%#v\n", i)   // #v for go syntax value
   fmt.Printf("%v%%\n", i)  // %% for percentage value
-  fmt.Printf("%T\n", i)
+  fmt.Printf("%T\n", i)  // 
 
 
   fmt.Printf("%v\n", txt)
