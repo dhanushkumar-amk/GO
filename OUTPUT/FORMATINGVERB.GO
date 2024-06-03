@@ -33,10 +33,10 @@ func main() {
 }
 
 // output :
-15.5
-15.5
-15.5%
-float64
-Hello World!
-"Hello World!"
-string
+// 15.5
+// 15.5
+// 15.5%
+// float64
+// Hello World!
+// "Hello World!"
+// string
