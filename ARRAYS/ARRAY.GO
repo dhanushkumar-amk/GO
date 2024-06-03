@@ -124,6 +124,8 @@ arr4 := [5]int{} //not initialized
 
 
 // we can add 
+
+1 ""
 arr7 := [5]int{1:10,2:40}
 fmt.Println(arr7)
 
