@@ -37,6 +37,6 @@ fmt.Println( a % b) // modulus
   fmt.Println(x)
   
   
-  // assignment operator 
+  // assignment operator and shorthand assignment operatot 
 }
 
