@@ -117,7 +117,7 @@ fmt.Printf("length = %d\n", len(numbers))
 fmt.Printf("capacity = %d\n", cap(numbers))
 
 // Create copy with only needed numbers
-// length of the number 
+// length of the number is 15 then 
 neededNumbers := numbers[:len(numbers)-10]
 numbersCopy := make([]int, len(neededNumbers))
 copy(numbersCopy, neededNumbers)
