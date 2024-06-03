@@ -32,7 +32,7 @@ fmt.Println( a / b) // division
 fmt.Println( a % b) // modulus
   
   // assignment operator
-  // 
+  // Assignment operators are used to assign values to variables.
   var x = 10
   fmt.Println(x)
 }
