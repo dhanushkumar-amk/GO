@@ -26,7 +26,7 @@ func main() {
   fmt.Printf("%#v\n", i)
   fmt.Printf("%v%%\n", i)
   fmt.Printf("%T\n", i)
-  fmt
+  fmt.Printf()
 
   fmt.Printf("%v\n", txt)
   fmt.Printf("%#v\n", txt)
