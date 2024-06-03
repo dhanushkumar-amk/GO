@@ -7,7 +7,7 @@
 
 
 
-// rules for declaring
+// rules for declaring 
 
 // ! variable deceleration
 
