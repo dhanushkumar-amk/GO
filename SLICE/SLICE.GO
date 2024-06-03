@@ -127,5 +127,8 @@ fmt.Println("length = ", len(numbersCopy))
 fmt.Println("capacity = ", cap(numbersCopy))
 
 
-// append one slice into another slice using 
+// append one slice into another slice using append method
+myslice1 := []int{1,2,3}
+myslice2 := []int{4,5,6}
+myslice3 := append(myslice1, myslice2...)
 }
