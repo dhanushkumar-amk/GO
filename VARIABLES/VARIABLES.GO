@@ -42,6 +42,17 @@ func main() {
   fmt.Println(student1)
   fmt.Println(student2)
   fmt.Println(x)
+  
+  
+  
+  func main() {
+	var a string
+	var b int
+	var c bool
+  
+	fmt.Println(a)
+	fmt.Println(b)
+	fmt.Println(c)
 }
 
 //  Variable declaration with out intial value
