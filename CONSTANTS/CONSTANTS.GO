@@ -17,17 +17,7 @@ const PI = 3.14
 func main() {
   fmt.Println(PI)
   
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
+
   // constant types
   
   // two types of constants
