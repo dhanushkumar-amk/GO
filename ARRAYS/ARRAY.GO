@@ -67,6 +67,9 @@ fmt.Println(a2)
 var person = [3]string{"Dhanush", "sanjayKumar", "ashwin"};
 fmt.Println("person : "   , person)
 
+
+
+
 }
  
  
