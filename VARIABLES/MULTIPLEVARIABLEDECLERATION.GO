@@ -10,4 +10,8 @@ func main() {
   fmt.Println(b)
   fmt.Println(c)
   fmt.Println(d)
+  // 1
+3
+5
+7
 }
