@@ -103,7 +103,7 @@ var b int = 2
 var c = 3
 
 
-using var we can declere the vcc
+using var we can declare the variable i
 
 func main() {
   a = 1
