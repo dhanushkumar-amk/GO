@@ -64,7 +64,7 @@ fmt.Println(a2)
 
 // Array with string
 
-var person = 
+var person = [3]
 }
  
  
