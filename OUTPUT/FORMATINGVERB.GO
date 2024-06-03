@@ -13,7 +13,7 @@
 // %%	Prints the % sign
 
 
-example for general  
+example for general formating vverb 
 
 package main
 import ("fmt")
