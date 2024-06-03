@@ -40,5 +40,10 @@ var (
  fmt.Println(e)
  fmt.Println(f)
  fmt.Println(g)
+ 
+ // output 
+ 0
+1
+hello
 
 }
