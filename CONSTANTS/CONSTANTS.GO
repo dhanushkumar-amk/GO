@@ -32,6 +32,7 @@ fmt.Println(A)
 // Untyped constants
 // Untyped constants are declared without a type
 
+const A = 1
 }
 
 
