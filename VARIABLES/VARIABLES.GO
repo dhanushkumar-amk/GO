@@ -77,7 +77,7 @@ func main() {
 
 
 
-
+// we can also assign value after decleration 
 	
 }
 
