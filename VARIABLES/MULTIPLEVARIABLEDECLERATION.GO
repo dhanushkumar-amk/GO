@@ -30,5 +30,5 @@ fmt.Println(bol);
 // hello
 // true
 
-
+// we can also declere the variable 
 }
