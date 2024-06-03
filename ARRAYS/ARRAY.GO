@@ -82,6 +82,7 @@ fmt.Println("person : "   , person1)
 
 // Access Elements of an Array
 // ou can access a specific array element by referring to the index number.
+var person1 = [...]string{"Dhanush", "sanjayKumar", "ashwin"};
 
 
 
