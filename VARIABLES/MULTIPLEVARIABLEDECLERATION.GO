@@ -30,5 +30,5 @@ fmt.Println(bol);
 // hello
 // true
 
-// we can also declare the variable 
+// we can also declare the variable inside the gruop 
 }
