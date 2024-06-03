@@ -112,9 +112,9 @@ fmt.Println(array3, len(array3))
 
 numbers := []int{1,2,3,4,5,6,7,8,9,10,11,12,13,14,15}
 // Original slice
-fmt.Printf("numbers = %v\n", numbers)
-fmt.Printf("length = %d\n", len(numbers))
-fmt.Printf("capacity = %d\n", cap(numbers))
+fmt.Println("numbers = %v\n", numbers)
+fmt.Println("length = %d\n", len(numbers))
+fmt.Println("capacity = %d\n", cap(numbers))
 
 // Create copy with only needed numbers
 // length of the number is 15 then -10 so now the length of an number is 5  so now the only 5 element can be displayed
@@ -122,7 +122,7 @@ neededNumbers := numbers[:len(numbers)-10]
 numbersCopy := make([]int, len(neededNumbers))
 copy(numbersCopy, neededNumbers)
 
-fmt.Printf("numbersCopy = %v\n", numbersCopy)
-fmt.Printf("length = %d\n", len(numbersCopy))
-fmt.Printf("capacity = %d\n", cap(numbersCopy))
+fmt.Println("numbersCopy = %v\n", numbersCopy)
+fmt.Println("length = %d\n", len(numbersCopy))
+fmt.Println("capacity = %d\n", cap(numbersCopy))
 }
