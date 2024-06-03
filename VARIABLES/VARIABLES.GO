@@ -77,7 +77,15 @@ func main() {
 
 
 
-// we can also assign value after decleration 
+// we can also assign value after declaration
+package main
+import ("fmt")
+
+func main() {
+  var student1 string
+  student1 = "John"
+  fmt.Println(student1)
+} 
 	
 }
 
