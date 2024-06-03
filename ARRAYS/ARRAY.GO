@@ -60,7 +60,7 @@ func main() {
 
 
 var arr1 = [...]int{1,2,3}
-arr2 := [...]int{4,5,6,7,8}
+a2 := [...]int{4,5,6,7,8}
 
 fmt.Println(a1)
 fmt.Println(a2)
