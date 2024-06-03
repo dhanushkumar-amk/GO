@@ -90,4 +90,8 @@ array2[4] = 0;
 
 fmt.Println(array2)
 // [0 0 0 0 0 6]
+
+
+// Append Elements To a Slice
+You can append elements to the end of a slice using the append()function:
 }
