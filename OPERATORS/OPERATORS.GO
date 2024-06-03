@@ -12,7 +12,7 @@ func main() {
   fmt.Println(sum3)
   
   
- // ! Arthemetic opertor 
+ // ! Arthemetic operator 
   
 //   +	Addition	Adds together two values	x + y	
 // -	Subtraction	Subtracts one value from another	x - y	
