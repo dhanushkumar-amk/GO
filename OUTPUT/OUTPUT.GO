@@ -1,8 +1,8 @@
-Go has three functions to output text:
+// Go has three functions to output text:
 
-Print()
-Println()
-Printf()
+// Print()
+// Println()
+// Printf()
 
 
 
