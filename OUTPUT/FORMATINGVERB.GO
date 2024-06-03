@@ -13,7 +13,7 @@
 // %%	Prints the % sign
 
 
-
+example for genral 
 
 package main
 import ("fmt")
