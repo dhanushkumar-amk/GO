@@ -64,7 +64,7 @@ fmt.Println(a2)
 
 // Array with string 
 
-//
+// with user defined 
 
 var person = [3]string{"Dhanush", "sanjayKumar", "ashwin"};
 fmt.Println("person : "   , person)
