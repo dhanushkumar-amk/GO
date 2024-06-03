@@ -67,7 +67,7 @@ const (
 	F = 3.14
 	G = "Hi!"
   )
-  fmt.Println(C)
+  fmt.Println(E)
   fmt.Println(F)
   fmt.Println(G)
 }
