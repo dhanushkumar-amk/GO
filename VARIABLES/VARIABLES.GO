@@ -7,15 +7,15 @@
 
 // ! variable deceleration
 
-package main
+// package main
 
-import "fmt"
+// import "fmt"
  
 
-func main()  {
-	// var variablename type = value
-	var variable_name int = 2;
-	fmt.Println("int: ", variable_name)
+// func main()  {
+// 	// var variablename type = value
+// 	var variable_name int = 2;
+// 	fmt.Println("int: ", variable_name)
 	
 }
 
