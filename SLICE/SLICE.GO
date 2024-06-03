@@ -63,11 +63,11 @@ fmt.Println("capacity = ", cap(myslice3))
 // You can access a specific slice element by referring to the index number.
 
 var array = [3]int{1,2,3,4,5,6}
- fmt.Println(arr[0])
- fmt.Println(arr[1])
- fmt.Println(arr[2])
- fmt.Println(arr[3])
- fmt.Println(arr[4])
- fmt.Println(arr[5])
+ fmt.Println(array[0])
+ fmt.Println(array[1])
+ fmt.Println(array[2])
+ fmt.Println(array[3])
+ fmt.Println(array[4])
+ fmt.Println(array[5])
 
 }
