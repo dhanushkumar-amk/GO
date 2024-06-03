@@ -22,7 +22,9 @@ func main() {
   var i = 15.5
   var txt = "Hello World!"
 
-  fmt.Printf("%v\n", i)  
+  
+  //  \n is used to get to new line
+  fmt.Printf("%v\n", i)    // 
   fmt.Printf("%#v\n", i)   
   fmt.Printf("%v%%\n", i)
   fmt.Printf("%T\n", i)
