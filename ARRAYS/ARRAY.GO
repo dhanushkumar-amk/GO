@@ -132,6 +132,8 @@ fmt.Println(arr7)
 // 1:10 means: assign 10 to array index 1 (second element).
 // 2:40 means: assign 40 to array index 2 (third element).
 
+
+// length 
 arr1 := [4]string{"Volvo", "BMW", "Ford", "Mazda"}
 arr2 := [...]int{1,2,3,4,5,6}
 
