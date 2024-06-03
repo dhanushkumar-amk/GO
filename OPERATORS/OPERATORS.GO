@@ -29,7 +29,7 @@ fmt.Println( a + b) // addition
 fmt.Println( a - b) // Subtraction
 fmt.Println( a * b)// multiplication
 fmt.Println( a / b) // division
-fmt.Println( a % b)
+fmt.Println( a % b) // modulus
   
   
 }
