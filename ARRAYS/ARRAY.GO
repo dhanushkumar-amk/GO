@@ -92,7 +92,7 @@ fmt.Println("person : "   , person2[2])
 // person :  ashwin
 
 
-var person2[]
+var person2[2] = ""
 
 }
  
