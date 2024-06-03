@@ -34,7 +34,7 @@ func main() {
   fmt.Println(mySlice1)
 
   mySlice2 := []string{"Go", "Slices", "Are", "Powerful"}
-  fmt.Println(len(mySlice2))
+  fmt.Println(len(mySlice2)) 
   fmt.Println(cap(mySlice2))
   fmt.Println(mySlice2)
 }
