@@ -50,7 +50,7 @@ func main() {
 	var b int
 	var c bool
   
-	fmt.Println(a) // i
+	fmt.Println(a) // inital 
 	fmt.Println(b)
 	fmt.Println(c)
 }
