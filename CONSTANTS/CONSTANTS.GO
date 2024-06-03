@@ -20,6 +20,8 @@ const PI = 3.14
 func main() {
   fmt.Println(PI)
   
+  
+  
 
   // constant types
   
@@ -28,11 +30,13 @@ func main() {
 // Untyped constants
 
 
+
 // typed constants
 // typed constants are declared with a defined type
 
 const A int = 1 // here we declare int type
 fmt.Println(A)
+
 
 
 // Untyped constants
