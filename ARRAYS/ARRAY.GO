@@ -124,8 +124,8 @@ arr4 := [5]int{} //not initialized
 
 
 // we can add 
-
 // 1 : 1 here the : value is assigned to the certain index 
+
 arr7 := [5]int{1:10,2:40}
 fmt.Println(arr7)
 
