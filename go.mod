@@ -1,3 +1,3 @@
-module exaple.com/constants.go
+module exaple.com/constants
 
 go 1.22.3
