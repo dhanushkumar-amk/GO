@@ -29,4 +29,5 @@ array_name := [length]datatype{values}
 
 or
 
-rray_name := [...]datatype{values} // here length is inferred
+array_name := [...]datatype{values}
+ // here length is inferred
