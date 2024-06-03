@@ -22,7 +22,9 @@ func main() {
 // ++	Increment	Increases the value of a variable by 1	x++	
 // --	Decrement	Decreases the value of a variable by 1	x--	
 
-fmt.Println(sum3)
+
+
+fmt.Println()
   
   
 }
