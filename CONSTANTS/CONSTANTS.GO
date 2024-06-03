@@ -27,6 +27,7 @@ func main() {
 // typed constants
 // typed constants are declared with a defined type:
 
+fmt.Println(A)
 }
 
 
