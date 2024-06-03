@@ -21,6 +21,7 @@
 
 
 // Declare Variable
+
 // With the := sign:
 // Use the := sign, followed by the variable value:
 
