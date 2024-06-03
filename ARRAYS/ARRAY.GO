@@ -134,7 +134,7 @@ fmt.Println(arr7)
 
 
 // to check the length of the array
-arr1 := [4]string{"Volvo", "BMW", "Ford", "Mazda"}
+arr8 := [4]string{"Volvo", "BMW", "Ford", "Mazda"}
 arr2 := [...]int{1,2,3,4,5,6}
 
 fmt.Println(len(arr1))
