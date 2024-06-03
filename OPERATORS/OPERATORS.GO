@@ -51,6 +51,7 @@ fmt.Println( a % b) // modulus
 // <<=	x <<= 3	x = x << 3 
 
 
-// comparition
+// comparison opertor
+
 }
 
