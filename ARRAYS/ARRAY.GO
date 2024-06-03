@@ -50,7 +50,7 @@ func main() {
   
   
   fmt.Println(arr1)
-  fmt.Println(arr2)
+   fmt.Println(arr2)
 }
  
  
