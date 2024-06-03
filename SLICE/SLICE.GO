@@ -39,13 +39,6 @@ func main() {
   fmt.Println(mySlice2)// [Go Slices Are Powerful]
   
   
-  
-  
-  
-  
-  
-  
-  
   // 2 => Create a Slice From an Array
   
   
