@@ -7,3 +7,5 @@
 // syntax :
 // const CONSTNAME type = value
 
+// he value of a constant must be assigned when you declare it.
+
