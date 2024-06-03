@@ -25,7 +25,8 @@ func main() {
 // Untyped constants
 
 // typed constants
-// yped constants are declared with a defined type:
+// typed constants are declared with a defined type:
+
 }
 
 
