@@ -92,7 +92,8 @@ fmt.Println("person : "   , person2[2])
 // person :  ashwin
 
 
-var person2[2] = ""
+var person2[2] = "ram";
+var person2[1] = "ram";
 
 }
  
