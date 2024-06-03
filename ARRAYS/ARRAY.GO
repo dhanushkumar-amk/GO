@@ -106,7 +106,7 @@ fmt.Println("person : "   , person2[2])
 // person :  raj
 // person :  ram
 
-// array intilization
+// array initialization
 // If an array or one of its elements has not been initialized in the code, it is assigned the default value of its type.
 }
  
