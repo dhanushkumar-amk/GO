@@ -8,3 +8,11 @@
 // bool: represents a boolean value and is either true or false
 // Numeric: represents integer types, floating point values, and complex types
 // string: represents a string value
+
+
+
+
+
+
+// example
+
