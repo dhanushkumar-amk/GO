@@ -79,7 +79,7 @@ func main() {
 
 // we can also assign value after declaration
 
-  var student1 string
+  var student1 string  // first we declare
   student1 = "John"
   fmt.Println(student1)
 
