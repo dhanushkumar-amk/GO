@@ -67,6 +67,6 @@ var array = [3]int{1,2,3,4,5,5}
  fmt.Println(arr[1])
  fmt.Println(arr[1])
  fmt.Println(arr[1])
- fmt.Println(arr[1])
+ fmt.Println(arr[5])
 
 }
