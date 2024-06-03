@@ -30,7 +30,7 @@ const A int = 1 // here we declare int type
 fmt.Println(A)
 
 // Untyped constants
-
+Untyped constants are declared without a type
 }
 
 
