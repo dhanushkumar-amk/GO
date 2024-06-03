@@ -51,7 +51,7 @@ func main() {
 	var c bool
   
 	fmt.Println(a) // initial value empty 
-	fmt.Println(b)  // int 
+	fmt.Println(b)  // int => intial value  = 0
 	fmt.Println(c)
 }
 
