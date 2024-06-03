@@ -65,7 +65,7 @@ fmt.Println(a2)
 // Array with string
 
 var person = [3]string{"Dhanush", "sanjayKumar", "ashwin"};
-fmt.Println(person ,%T)
+fmt.Println("person ,%T)
 
 }
  
