@@ -24,8 +24,8 @@ func main() {
 
   
   //  \n is used to get to new line
-  fmt.Printf("%v\n", i)    // 
-  fmt.Printf("%#v\n", i)   
+  fmt.Printf("%v\n", i)    // %v for value
+  fmt.Printf("%#v\n", i)   // 
   fmt.Printf("%v%%\n", i)
   fmt.Printf("%T\n", i)
 
