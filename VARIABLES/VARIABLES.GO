@@ -45,7 +45,7 @@ func main() {
   
   
 //   Variable declaration with out initial value
-  func main() {
+  func main() 
 	var a string
 	var b int
 	var c bool
