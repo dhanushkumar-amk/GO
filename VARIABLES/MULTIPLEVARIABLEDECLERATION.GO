@@ -3,7 +3,7 @@ import ("fmt")
 
 func main() {
   
-	// ! WE CAN ALSO DECLARE THE MULTIPLE  VARIABLE 
+	// ! WE CAN ALSO DECLARE THE MULTIPLE  VARIABLE IN THE SAME LINE 
 	var a, b, c, d int = 1, 3, 5, 7
 
   fmt.Println(a)
