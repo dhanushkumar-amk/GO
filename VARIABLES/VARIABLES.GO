@@ -44,7 +44,7 @@ func main() {
   fmt.Println(x)
 }
 
-//  Variable declaration with out intial value
+//  Variable declaration with out initial value
 package main
 import ("fmt")
 
