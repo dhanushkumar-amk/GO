@@ -60,6 +60,11 @@ a2 := [...]int{4,5,6,7,8,6,5,4,3,5,6,7,5,4,3} // there is no limit to add the va
 fmt.Println(a1)
 fmt.Println(a2)
 
+
+
+// Array with string
+
+var 
 }
  
  
