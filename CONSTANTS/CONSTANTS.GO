@@ -27,17 +27,21 @@ func main() {
 //   Typed constants
 // Untyped constants
 
+
 // typed constants
 // typed constants are declared with a defined type
 
 const A int = 1 // here we declare int type
 fmt.Println(A)
 
+
 // Untyped constants
 // Untyped constants are declared without a type
 
 const B = 2  // here we can't declare the variable type
 fmt.Println(B)
+
+
 
 // constant variable can't be changed
 const C = 1
