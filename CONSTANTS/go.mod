@@ -1,3 +1,3 @@
-module exaple.com/constants
+module example.com/constants
 
 go 1.22.3
