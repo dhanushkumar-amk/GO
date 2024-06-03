@@ -26,7 +26,7 @@ func main() {
 var a int =10;
 var b int = 15; 
 fmt.Println( a + b) // addition
-fmt.Println( a - b) // subration
+fmt.Println( a - b) // subraction
 fmt.Println( a * b)
 fmt.Println( a / b)
 fmt.Println( a % b)
