@@ -25,7 +25,7 @@ func main() {
 
 var a int =10;
 var b int = 15; 
-fmt.Println()
+fmt.Println( a + b)
   
   
 }
