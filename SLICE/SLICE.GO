@@ -28,10 +28,10 @@ package main
 import ("fmt")
 
 func main() {
-  myslice1 := []int{}
-  fmt.Println(len(myslice1))
-  fmt.Println(cap(myslice1))
-  fmt.Println(myslice1)
+  mySlice1 := []int{}
+  fmt.Println(len(mySlice1))
+  fmt.Println(cap(mySlice1))
+  fmt.Println(mySlice1)
 
   myslice2 := []string{"Go", "Slices", "Are", "Powerful"}
   fmt.Println(len(myslice2))
