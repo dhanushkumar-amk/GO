@@ -29,6 +29,7 @@ func main() {
 const A int = 1 // here we declare int type
 fmt.Println(A)
 
+// Untyped constants
 
 }
 
