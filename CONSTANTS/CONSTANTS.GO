@@ -53,8 +53,8 @@ fmt.Println(B)
 
 
 // constant variable can't be changed
-const C = 1
-C = 2
+// const C = 1
+// C = 2
 // fmt.Println(C)
 // error
 // cannot assign to C
