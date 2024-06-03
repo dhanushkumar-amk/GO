@@ -45,7 +45,7 @@ fmt.Println(C)
 
 
 
-// we can also declare multiple 
+// we can also declare multiple const 
 }
 
 
