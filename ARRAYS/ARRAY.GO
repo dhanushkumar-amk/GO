@@ -7,3 +7,4 @@
 
 
 1 => With the var keyword
+2 => With the := sign
