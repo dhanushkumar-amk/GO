@@ -43,8 +43,8 @@ func main() {
 // Unsigned Integers
 // Unsigned integers, declared with one of the uint keywords, can only store non-negative values:
 
-var  uint = 500
-var y uint = 4500
+var a uint = 500
+var b uint = 4500
 fmt.Printf("Type: %T, value: %v", x, x)
 fmt.Printf("Type: %T, value: %v", y, y)
 
