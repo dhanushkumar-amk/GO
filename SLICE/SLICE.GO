@@ -59,5 +59,5 @@ fmt.Println("capacity = ", cap(myslice3))
 // If myslice started from element 0, the slice capacity would be 6
 
 
-.
+// Access Elements of a Slice
 }
