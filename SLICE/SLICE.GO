@@ -28,8 +28,8 @@ package main
 import ("fmt")
 
 func main() {
-  mySlice1 := []int{}
-  fmt.Println(len(mySlice1))
+  mySlice1 := []int{}  
+  fmt.Println(len(mySlice1))  
   fmt.Println(cap(mySlice1))
   fmt.Println(mySlice1)
 
