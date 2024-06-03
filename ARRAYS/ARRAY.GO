@@ -11,7 +11,7 @@
 
 
 
-// 1=> 
+// 1=> With the var keyword
 // var array_name = [length]datatype{values} 
 // here length is defined
 
