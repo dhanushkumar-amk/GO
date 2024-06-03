@@ -145,7 +145,7 @@ fmt.Println(len(arr9))
 
 // example
 
-arr19 := 
+arr19 := [...]int int{}
 }
  
  
