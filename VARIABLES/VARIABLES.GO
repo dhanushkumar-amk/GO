@@ -10,15 +10,13 @@
 // package main
 
 // import "fmt"
- 
 
 // func main()  {
-	// var variablename type = value
+// var variablename type = value
 // 	var variable_name int = 2;
 // 	fmt.Println("int: ", variable_name)
-	
-// }
 
+// }
 
 // Declare Variable
 
@@ -30,9 +28,11 @@
 
 // In this case, the type of the variable is inferred from the value (means that the compiler decides the type of the variable, based on the value)
 
-
 package main
-import ("fmt")
+
+import (
+	"fmt"
+)
 
 func main() {
   var student1 string = "John" //type is string
@@ -56,4 +56,3 @@ func main() {
 }
 
 
-}
