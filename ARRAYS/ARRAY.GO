@@ -19,7 +19,7 @@
 
 // var array_name = [...]datatype{values} 
 // here length is inferred
- //
+ //?  here the length defined by [...] we can add an number of values  the array
 
 
 // 2 => 
