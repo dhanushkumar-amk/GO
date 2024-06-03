@@ -104,4 +104,5 @@ fmt.Println(arr)
 // here append the element in an same
 array3 = append(array3, 7,8,9,10);
 fmt.Println(array3, len(array3))
+// s
 }
