@@ -102,5 +102,5 @@ fmt.Println(arr)
 // [1 2 3 4 5 6 7 8 9 10]
 
 // here append the element in an same
-
+arr
 }
