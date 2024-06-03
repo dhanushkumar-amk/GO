@@ -10,8 +10,10 @@
 // 2 => With the := sign
 
 
-var array_name = [length]datatype{values} // here length is defined
+// var array_name = [length]datatype{values} 
+// here length is defined
 
 or
 
-var array_name = [...]datatype{values} // here length is inferred
+// var array_name = [...]datatype{values} 
+// here length is inferred
