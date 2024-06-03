@@ -33,8 +33,8 @@ func main() {
   
   // output :
   
-  Boolean:  true
-Integer:  5
-Float:    3.14
-String:   Hi!
+//   Boolean:  true
+// Integer:  5
+// Float:    3.14
+// String:   Hi!
 }
