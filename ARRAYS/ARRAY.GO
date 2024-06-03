@@ -135,10 +135,10 @@ fmt.Println(arr7)
 
 // to check the length of the array
 arr8 := [4]string{"Volvo", "BMW", "Ford", "Mazda"}
-arr2 := [...]int{1,2,3,4,5,6}
+arr9 := [...]int{1,2,3,4,5,6}
 
-fmt.Println(len(arr1))
-fmt.Println(len(arr2))
+fmt.Println(len(arr8))
+fmt.Println(len(arr9))
 
 }
  
