@@ -108,7 +108,7 @@ fmt.Println(array3, len(array3))
 // [1 2 3 4 5 6 7 8 9 10] 10
 
 
-
+// copy() methgos
 
 numbers := []int{1,2,3,4,5,6,7,8,9,10,11,12,13,14,15}
 // Original slice
