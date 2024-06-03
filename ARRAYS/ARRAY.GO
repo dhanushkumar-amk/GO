@@ -111,10 +111,10 @@ fmt.Println("person : "   , person2[2])
 
 arr4 := [5]int{} //not initialized
   arr5 := [5]int{1,2} //partially initialized
-  arr3 := [5]int{1,2,3,4,5} //fully initialized
+  arr6 := [5]int{1,2,3,4,5} //fully initialized
 
-  fmt.Println(arr1)
-  fmt.Println(arr2)
+  fmt.Println(arr4)
+  fmt.Println(arr52)
   fmt.Println(arr3)
 }
  
