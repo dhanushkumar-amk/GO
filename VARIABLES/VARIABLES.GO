@@ -13,11 +13,11 @@
  
 
 // func main()  {
-// 	// var variablename type = value
+	// var variablename type = value
 // 	var variable_name int = 2;
 // 	fmt.Println("int: ", variable_name)
 	
-}
+// }
 
 
 // Declare Variable
