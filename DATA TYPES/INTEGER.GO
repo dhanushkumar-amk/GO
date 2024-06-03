@@ -41,5 +41,7 @@ func main() {
 
 
 // Unsigned Integers
-Unsigned integers, declared with one of the uint keywords, can only store non-negative values:
+// Unsigned integers, declared with one of the uint keywords, can only store non-negative values:
+
+
 }
