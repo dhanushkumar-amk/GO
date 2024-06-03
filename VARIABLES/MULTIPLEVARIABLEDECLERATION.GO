@@ -37,7 +37,7 @@ var (
 	g string = "hello"
   )
 
- fmt.Println(e) // no value assign 
+ fmt.Println(e) // no value assign so default value of int is 0
  fmt.Println(f)
  fmt.Println(g)
  
