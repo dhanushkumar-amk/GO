@@ -21,7 +21,7 @@
 
 // there are two function that can  return  length and capacity
 
-
+1 => len()
 
 // len() function - returns the length of the slice (the number of elements in the slice)
 // cap() function - returns the capacity of the slice (the number of elements the slice can grow or shrink to)
