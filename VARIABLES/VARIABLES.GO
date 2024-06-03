@@ -28,6 +28,8 @@
 // Syntax
 // variablename := value
 
+In this case, the type of the variable is inferred from the value (means that the compiler decides the type of the variable, based on the value).
+
 
 package main
 import ("fmt")
