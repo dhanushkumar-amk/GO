@@ -52,7 +52,7 @@ func main() {
 
 
 // declares two arrays (arr1 and arr2) with inferred lengths:
-here we can add any number of arra
+here we can add any number of arrays values in an array
 
 var a1 = [...]int{1,2,3}
 a2 := [...]int{4,5,6,7,8}
