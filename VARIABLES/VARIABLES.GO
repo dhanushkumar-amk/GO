@@ -112,7 +112,7 @@ func main() {
   fmt.Println(c)
 }
 
-// but declare the variable out side the function  using := 
+// but declare the variable out side the function  using :=  always gives he
 
 package main
 import ("fmt")
