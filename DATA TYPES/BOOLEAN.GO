@@ -1,10 +1,10 @@
-Boolean Data Type
-A boolean data type is declared with the bool keyword and can only take the values true or false.
+// Boolean Data Type
+// A boolean data type is declared with the bool keyword and can only take the values true or false.
 
-The default value of a boolean data type is false.
+// The default value of a boolean data type is false.
 
-Example
-This example shows some different ways to declare Boolean variables:
+// Example
+// This example shows some different ways to declare Boolean variables:
 
 package main
 import ("fmt")
