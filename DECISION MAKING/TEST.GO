@@ -20,6 +20,6 @@
 // Go has the following conditional statements:
 
 // if
-// if else
-// if else if
+//  else
+//  else if
 // switch
