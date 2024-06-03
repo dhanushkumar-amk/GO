@@ -22,11 +22,13 @@ func main() {
   // if else statement
   
   // syntax:
-  if condition {
+  
+  // if condition {
     // code to be executed if condition is true
-  } else {
+  // } else {
     // code to be executed if condition is false
-  }
+  // }
+  
   time := 20
   if (time < 18) {
     fmt.Println("Good day.")
