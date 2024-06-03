@@ -2,7 +2,7 @@
 // A boolean data type is declared with the bool keyword and can only take the values true or false.
 
 
-
+//  bool keyword
 
 
 // The default value of a boolean data type is false.
