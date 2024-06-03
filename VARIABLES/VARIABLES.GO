@@ -13,6 +13,7 @@ import "fmt"
  
 
 func main()  {
+	
 	var variable_name int = 2;
 	fmt.Println("int: ", variable_name)
 	
