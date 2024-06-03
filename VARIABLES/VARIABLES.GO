@@ -39,7 +39,7 @@ func main() {
   var student2 = "Jane" //type is inferred
   x := 2 //type is inferred it mean the compiler decides the variable for the value
 
-  fmt.Println(student1)
+  fmt.Println(student1) 
   fmt.Println(student2)
   fmt.Println(x)
   
