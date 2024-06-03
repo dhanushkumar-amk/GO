@@ -3,10 +3,11 @@ String Data Type
 The string data type is used to store a sequence of characters (text). String values must be surrounded by double quotes:
 */
 
-
-
 package main
-import ("fmt")
+
+import (
+	"fmt"
+)
 
 func main() {
   var txt1 string = "Hello!"
@@ -19,4 +20,8 @@ func main() {
 }
 
 
-/**
+/*
+Type: string, value: Hello!
+Type: string, value:
+Type: string, value: World 1
+*/
