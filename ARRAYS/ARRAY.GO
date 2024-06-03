@@ -96,7 +96,10 @@ fmt.Println("person : "   , person2[2])
  person2[0] = "jack";
  person2[1] = "raj";
 
-fmt.Println(person2);
+// fmt.Println(person2);
+fmt.Println("person : "   , person2[0])
+fmt.Println("person : "   , person2[1])
+fmt.Println("person : "   , person2[2])
 
 }
  
