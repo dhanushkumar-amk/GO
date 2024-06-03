@@ -37,7 +37,7 @@ var (
 	g string = "hello"
   )
 
- fmt.Println(e)
+ fmt.Println(e) // no value assign 
  fmt.Println(f)
  fmt.Println(g)
  
