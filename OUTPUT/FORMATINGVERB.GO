@@ -31,3 +31,12 @@ func main() {
   fmt.Printf("%#v\n", txt)
   fmt.Printf("%T\n", txt)
 }
+
+// output :
+15.5
+15.5
+15.5%
+float64
+Hello World!
+"Hello World!"
+string
