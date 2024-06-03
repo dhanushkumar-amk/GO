@@ -44,7 +44,7 @@ func main() {
   fmt.Println(x)
 }
 
-//  
+//  Variable declerat
 package main
 import ("fmt")
 
