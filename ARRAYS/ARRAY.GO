@@ -91,7 +91,7 @@ fmt.Println("person : "   , person2[2])
 // person :  sanjayKumar
 // person :  ashwin
 
-// change tha value in an array using 
+// change tha value in an array using index value
  person2[2] = "ram";
  person2[0] = "jack";
  person2[1] = "raj";
