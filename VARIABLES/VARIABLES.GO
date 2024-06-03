@@ -103,7 +103,7 @@ var b int = 2
 var c = 3
 
 
-usi
+using var we can declere the vcc
 
 func main() {
   a = 1
