@@ -34,6 +34,7 @@ fmt.Println(A)
 // Untyped constants are declared without a type
 
 const B = 1
+fmt.Println(B)
 }
 
 
