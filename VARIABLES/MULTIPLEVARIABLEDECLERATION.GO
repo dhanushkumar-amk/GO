@@ -23,6 +23,6 @@ func main() {
 
 var num, name,bol = 1, "hello", boolean;
 fmt.Print(num);
-fmt.Print(num);
+fmt.Print(name);
 fmt.Print(num);
 }
