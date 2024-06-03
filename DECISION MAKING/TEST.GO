@@ -19,4 +19,7 @@
 
 // Go has the following conditional statements:
 
-// i
+// if
+// if else
+// if else if
+// switch
