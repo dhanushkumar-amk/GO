@@ -21,8 +21,8 @@
 
 // there are two function that can  return  length and capacity
 
-1 => len()  to display the length;
-2 => cap()  to display th capacity of the particular slice 
+// 1 => len()  to display the length;
+// 2 => cap()  to display th capacity of the particular slice 
 
 package main
 import ("fmt")
