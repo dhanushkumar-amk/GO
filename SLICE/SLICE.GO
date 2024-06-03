@@ -122,7 +122,7 @@ neededNumbers := numbers[:len(numbers)-10]
 numbersCopy := make([]int, len(neededNumbers))
 copy(numbersCopy, neededNumbers)
 
-fmt.Println("numbersCopy = %v\n", numbersCopy)
-fmt.Println("length = %d\n", len(numbersCopy))
+fmt.Println("numbersCopy = ", numbersCopy)
+fmt.Println("length = ", len(numbersCopy))
 fmt.Println("capacity = %d\n", cap(numbersCopy))
 }
