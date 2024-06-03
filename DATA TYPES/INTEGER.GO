@@ -37,5 +37,5 @@ func main() {
 
 
 
-1byte = 8
+// 1byte = 8 bits 
 }
