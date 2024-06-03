@@ -87,6 +87,9 @@ fmt.Println("person : "   , person2[0])
 fmt.Println("person : "   , person2[1])
 fmt.Println("person : "   , person2[2])
 
+// person :  Dhanush
+// person :  sanjayKumar
+// person :  ashwin
 
 
 }
