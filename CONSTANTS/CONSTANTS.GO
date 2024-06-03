@@ -10,7 +10,10 @@
 // he value of a constant must be assigned when you declare it.
 
 package main
-import ("fmt")
+
+import (
+	"fmt"
+)
 
 const PI = 3.14
 
@@ -45,7 +48,7 @@ fmt.Println(C)
 
 
 
-// we can also declare multiple const 
+// we can also declare multiple const inside the same block
 }
 
 
