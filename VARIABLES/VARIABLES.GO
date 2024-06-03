@@ -22,6 +22,7 @@
 
 // With the := sign:
 // Use the := sign, followed by the variable value:
+// Can only be used inside functions
 
 // Syntax
 // variablename := value
