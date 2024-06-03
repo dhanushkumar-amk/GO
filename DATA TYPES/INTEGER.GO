@@ -45,7 +45,7 @@ func main() {
 
 var a uint = 500
 var b uint = 4500
-fmt.Printf("Type: %T, value: %v", a, x)
-fmt.Printf("Type: %T, value: %v", y, y)
+fmt.Printf("Type: %T, value: %v", a, a)
+fmt.Printf("Type: %T, value: %v", b, b)
 
 }
