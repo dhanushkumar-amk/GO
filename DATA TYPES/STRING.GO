@@ -17,3 +17,6 @@ func main() {
   fmt.Printf("Type: %T, value: %v\n", txt2, txt2)
   fmt.Printf("Type: %T, value: %v\n", txt3, txt3)
 }
+
+
+/**
