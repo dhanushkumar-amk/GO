@@ -78,6 +78,10 @@ fmt.Println("person : "   , person1)
 
 // person :  [Dhanush sanjayKumar ashwin]
 
+
+
+// Access Elements of an Array
+
 }
  
  
