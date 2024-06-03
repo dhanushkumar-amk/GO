@@ -26,8 +26,8 @@ func main() {
 var a int =10;
 var b int = 15; 
 fmt.Println( a + b)
-fmt.Println( a + b)
-fmt.Println( a + b)
+fmt.Println( a - b)
+fmt.Println( a * b)
 fmt.Println( a / b)
 fmt.Println( a % b)
   
