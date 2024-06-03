@@ -95,5 +95,5 @@ fmt.Println(array2)
 // Append Elements To a Slice
 // You can append elements to the end of a slice using the append()function:
 
-
+var array2 = []int{1,2,3,4,5,6}
 }
