@@ -37,7 +37,7 @@ import (
 func main() {
   var student1 string = "John" //type is string
   
-  var student2 = "Jane" //type is inferred
+  var student2 = "Jane" //type is inferred 
   
   
   x := 2 //type is inferred it mean the compiler decides the variable for the value
