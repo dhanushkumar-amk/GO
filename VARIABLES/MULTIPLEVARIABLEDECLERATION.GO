@@ -32,7 +32,7 @@ fmt.Println(bol);
 
 // we can also declare the variable inside the group  of block element
 var (
-	e int
+	e int  
 	f int = 1
 	g string = "hello"
   )
@@ -42,8 +42,8 @@ var (
  fmt.Println(g)
  
  // output 
- 0
- 1
- hello
+//  0
+//  1
+//  hello
 
 }
