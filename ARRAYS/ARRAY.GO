@@ -55,7 +55,7 @@ func main() {
 // here we can add any number of  values in an array
 
 var a1 = [...]int{1,2,3}
-a2 := [...]int{4,5,6,7,8,6,5,4,3,5,6,7,5,4,3}
+a2 := [...]int{4,5,6,7,8,6,5,4,3,5,6,7,5,4,3} // there is no limit 
 
 fmt.Println(a1)
 fmt.Println(a2)
