@@ -141,7 +141,9 @@ fmt.Println(len(arr8))
 fmt.Println(len(arr9))
 
 // 4
-6
+// 6
+
+
 }
  
  
