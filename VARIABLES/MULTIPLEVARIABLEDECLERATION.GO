@@ -24,5 +24,5 @@ func main() {
 var num, name,bol = 1, "hello", true;
 fmt.Println(num);
 fmt.Println(name);
-fmt.Printlm(bol);
+fmt.Println(bol);
 }
