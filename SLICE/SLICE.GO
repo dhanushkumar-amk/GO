@@ -15,3 +15,4 @@
 //  1 => Create a Slice With []datatype{values}
 
 // slice_name := []datatype{values}
+//myslice := []int{}
