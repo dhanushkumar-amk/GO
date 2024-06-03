@@ -57,18 +57,18 @@ func main() {
 	fmt.Println(b)  // int => initial value  = 0
 	fmt.Println(c)   // boolean initial value = false
 	
-	In this example there are 3 variables:
+// 	In this example there are 3 variables:
 
-a
-b
-c
-These variables are declared but they have not been assigned initial values.
+// a
+// b
+// c
+// These variables are declared but they have not been assigned initial values.
 
-By running the code, we can see that they already have the default values of their respective types:
+// By running the code, we can see that they already have the default values of their respective types:
 
-a is ""
-b is 0
-c is false
+// a is ""
+// b is 0
+// c is false
 	
 }
 
