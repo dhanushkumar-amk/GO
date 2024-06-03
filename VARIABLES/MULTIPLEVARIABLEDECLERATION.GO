@@ -21,5 +21,6 @@ func main() {
 
 // If the type keyword is not specified, you can declare different types of variables in the same line:
 
-var person = 1, "hello"
+var person = 1, "hello", boolean;
+
 }
