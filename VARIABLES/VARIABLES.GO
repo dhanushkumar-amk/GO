@@ -21,7 +21,11 @@
 
 
 // Declare Variable
+// With the := sign:
+// Use the := sign, followed by the variable value:
 
+// Syntax
+// variablename := value
 
 
 package main
