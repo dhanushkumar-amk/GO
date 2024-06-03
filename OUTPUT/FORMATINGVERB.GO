@@ -37,6 +37,7 @@ func main() {
 // 15.5
 // 15.5%
 // float64
+
 // Hello World!
 // "Hello World!"
 // string
