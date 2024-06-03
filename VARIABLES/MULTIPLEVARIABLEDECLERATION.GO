@@ -25,4 +25,8 @@ var num, name,bol = 1, "hello", true;
 fmt.Println(num);
 fmt.Println(name);
 fmt.Println(bol);
+// output :
+// 1
+// hello
+// true
 }
