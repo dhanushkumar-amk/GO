@@ -27,7 +27,7 @@ var a int =10;
 var b int = 15; 
 fmt.Println( a + b) // addition
 fmt.Println( a - b) // Subtraction
-fmt.Println( a * b)
+fmt.Println( a * b)// multipl
 fmt.Println( a / b)
 fmt.Println( a % b)
   
