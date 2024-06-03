@@ -52,4 +52,7 @@ fmt.Printf("myslice = %v\n", myslice3)
 fmt.Println("length = ", len(myslice3))
 fmt.Println("capacity = ", cap(myslice3))
 
+// myslice = [12 13]
+length =  2
+capacity =  4
 }
