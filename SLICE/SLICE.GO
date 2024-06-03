@@ -50,6 +50,6 @@ myslice3 := arr1[2:4]
 
 fmt.Printf("myslice = %v\n", myslice3)
 fmt.Println("length = ", len(myslice3))
-fmt.Printf("capacity = ", cap(myslice3))
+fmt.Println("capacity = ", cap(myslice3))
 
 }
