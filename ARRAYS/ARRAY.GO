@@ -103,8 +103,10 @@ fmt.Println("person : "   , person2[2])
 
 
 // person :  jack
-person :  raj
-person :  ram
+// person :  raj
+// person :  ram
+
+
 }
  
  
