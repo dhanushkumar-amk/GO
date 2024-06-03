@@ -31,5 +31,10 @@ func main() {
   fmt.Println("String:  ", d)
   
   
-  // 
+  // output :
+  
+  Boolean:  true
+Integer:  5
+Float:    3.14
+String:   Hi!
 }
