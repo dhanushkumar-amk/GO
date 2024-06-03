@@ -33,7 +33,7 @@ fmt.Println(A)
 // Untyped constants
 // Untyped constants are declared without a type
 
-const B = 1  // here we can't declare the variable type
+const B = 2  // here we can't declare the variable type
 fmt.Println(B)
 }
 
