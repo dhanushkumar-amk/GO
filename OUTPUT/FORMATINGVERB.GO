@@ -1,3 +1,13 @@
 // Formatting Verbs for Printf()
 // Go offers several formatting verbs that can be used with the Printf() function.
 
+
+
+// General Formatting Verbs
+// The following verbs can be used with all data types:
+
+// Verb	Description
+// %v	Prints the value in the default format
+// %#v	Prints the value in Go-syntax format
+// %T	Prints the type of the value
+// %%	Prints the % sign
