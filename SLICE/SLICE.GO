@@ -93,5 +93,7 @@ fmt.Println(array2)
 
 
 // Append Elements To a Slice
-You can append elements to the end of a slice using the append()function:
+// You can append elements to the end of a slice using the append()function:
+
+
 }
