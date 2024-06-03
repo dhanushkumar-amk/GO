@@ -114,7 +114,7 @@ numbers := []int{1,2,3,4,5,6,7,8,9,10,11,12,13,14,15}
 // Original slice
 fmt.Println("numbers = ", numbers)
 fmt.Println("length = ", len(numbers))
-fmt.Println("capacity = %d\n", cap(numbers))
+fmt.Println("capacity = ", cap(numbers))
 
 // Create copy with only needed numbers
 // length of the number is 15 then -10 so now the length of an number is 5  so now the only 5 element can be displayed
