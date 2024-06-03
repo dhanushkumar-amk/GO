@@ -22,5 +22,7 @@ func main() {
 // If the type keyword is not specified, you can declare different types of variables in the same line:
 
 var num, name,bol = 1, "hello", boolean;
-fmt.P
+fmt.Print(num);
+fmt.Print(num);
+fmt.Print(num);
 }
