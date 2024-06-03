@@ -103,7 +103,7 @@ var b int = 2
 var c = 3
 
 
-using var we can declare the variable ousi
+using var we can declare the variable outside function
 
 func main() {
   a = 1
