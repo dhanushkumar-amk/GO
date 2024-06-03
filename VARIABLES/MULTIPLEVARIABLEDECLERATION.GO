@@ -3,7 +3,7 @@ import ("fmt")
 
 func main() {
   
-	// ! WE CAN ALSO DECLARE THE VAR 
+	// ! WE CAN ALSO DECLARE THE MULTIPE 
 	var a, b, c, d int = 1, 3, 5, 7
 
   fmt.Println(a)
