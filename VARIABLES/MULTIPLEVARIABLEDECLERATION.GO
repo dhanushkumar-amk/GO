@@ -31,6 +31,14 @@ fmt.Println(bol);
 // true
 
 // we can also declare the variable inside the group  of block element
+var (
+	a int
+	b int = 1
+	c string = "hello"
+  )
 
+ fmt.Println(a)
+ fmt.Println(b)
+ fmt.Println(c)
 
 }
