@@ -116,6 +116,9 @@ arr4 := [5]int{} //not initialized
   fmt.Println(arr4)
   fmt.Println(arr5)
   fmt.Println(arr6)
+  
+  
+  // 
 }
  
  
