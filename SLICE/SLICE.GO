@@ -19,7 +19,7 @@
 // myslice := []int{1,2,3}
 
 
-// In Go, there are two functions that can be used to return the length and capacity of a slice:
+// there are two function that can  return 
 
 // len() function - returns the length of the slice (the number of elements in the slice)
 // cap() function - returns the capacity of the slice (the number of elements the slice can grow or shrink to)
