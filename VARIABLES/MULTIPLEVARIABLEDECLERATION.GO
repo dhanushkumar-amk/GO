@@ -23,6 +23,6 @@ func main() {
 
 var num, name,bol = 1, "hello", true;
 fmt.Println(num);
-fmt.Print(name);
-fmt.Print(bol);
+fmt.Println(name);
+fmt.Printlm(bol);
 }
