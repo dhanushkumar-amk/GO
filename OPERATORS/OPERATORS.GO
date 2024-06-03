@@ -59,5 +59,8 @@ fmt.Println( a % b) // modulus
 // >=	Greater than or equal to	x >= y	
 // <=	Less than or equal to	x <= y
 
+
+
+// logical operatot
 }
 
