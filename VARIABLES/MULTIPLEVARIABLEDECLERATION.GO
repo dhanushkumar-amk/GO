@@ -32,4 +32,5 @@ fmt.Println(bol);
 
 // we can also declare the variable inside the group  of block element
 
+
 }
