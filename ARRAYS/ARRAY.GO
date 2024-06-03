@@ -84,6 +84,8 @@ fmt.Println("person : "   , person1)
 // ou can access a specific array element by referring to the index number.
 var person2 = [...]string{"Dhanush", "sanjayKumar", "ashwin"};
 fmt.Println("person : "   , person2[0])
+fmt.Println("person : "   , person2[0])
+fmt.Println("person : "   , person2[0])
 
 
 
