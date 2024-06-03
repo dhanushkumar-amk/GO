@@ -33,8 +33,8 @@ fmt.Println(bol);
 // we can also declare the variable inside the group  of block element
 var (
 	e int
-	b int = 1
-	c string = "hello"
+	f int = 1
+	g string = "hello"
   )
 
  fmt.Println(a)
