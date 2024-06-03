@@ -44,7 +44,7 @@ func main() {
   var student2 = "Jane" //type is inferred datatype can't be given because initial value given to the variable 
   
   
-  x := 2 //type is inferred it mean the compiler decides the variable for the value declare within same line and also declar
+  x := 2 //type is inferred it mean the compiler decides the variable for the value declare within same line and also decl
 
   fmt.Println(student1) 
   fmt.Println(student2)
