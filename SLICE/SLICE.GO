@@ -12,4 +12,5 @@
 // Using the make() function
 
 
-// 
+//  1 => Create a Slice With []datatype{values}
+
