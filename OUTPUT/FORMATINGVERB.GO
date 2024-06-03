@@ -1,8 +1,6 @@
 // Formatting Verbs for Printf()
 // Go offers several formatting verbs that can be used with the Printf() function.
 
-
-
 // General Formatting Verbs
 // The following verbs can be used with all data types:
 
@@ -12,11 +10,13 @@
 // %T	Prints the type of the value
 // %%	Prints the % sign
 
-
-// example for general forming verb 
+// example for general forming verb
 
 package main
-import ("fmt")
+
+import (
+	"fmt"
+)
 
 func main() {
   var i = 15.5
@@ -26,7 +26,7 @@ func main() {
   fmt.Printf("%#v\n", i)
   fmt.Printf("%v%%\n", i)
   fmt.Printf("%T\n", i)
-  fmt.Printf("%%")
+  fmt.Printf("%%", i)
 
   fmt.Printf("%v\n", txt)
   fmt.Printf("%#v\n", txt)
