@@ -4,13 +4,11 @@
 
 // However, unlike arrays, the length of a slice can grow and shrink as you see fit
 
-
-// declare slice in three different ways 
+// declare slice in three different ways
 
 // Using the []datatype{values} format
 // Create a slice from an array
 // Using the make() function
-
 
 //  1 => Create a Slice With []datatype{values}
 
@@ -18,14 +16,16 @@
 //myslice := []int{}
 // myslice := []int{1,2,3}
 
-
 // there are two function that can  return  length and capacity
 
 // 1 => len()  to display the length;
-// 2 => cap()  to display th capacity of the particular slice 
+// 2 => cap()  to display th capacity of the particular slice
 
 package main
-import ("fmt")
+
+import (
+	"fmt"
+)
 
 func main() {
   mySlice1 := []int{}  // no value so default integer value is 0
@@ -103,5 +103,5 @@ fmt.Println(arr)
 
 // here append the element in an same
 array3 = append(array3, 7,8,9,10);
-fmt.Println(array3, len(arr))
+fmt.Println(array3, len(array3))
 }
