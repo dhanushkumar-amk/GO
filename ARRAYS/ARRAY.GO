@@ -114,8 +114,8 @@ arr4 := [5]int{} //not initialized
   arr6 := [5]int{1,2,3,4,5} //fully initialized
 
   fmt.Println(arr4)
-  fmt.Println(arr52)
-  fmt.Println(arr3)
+  fmt.Println(arr5)
+  fmt.Println(arr6)
 }
  
  
