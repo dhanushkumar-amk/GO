@@ -112,7 +112,7 @@ func main() {
   fmt.Println(c)
 }
 
-// but declare the variable usi
+// but declare the variable using := al
 
 package main
 import ("fmt")
