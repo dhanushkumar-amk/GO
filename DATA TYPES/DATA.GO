@@ -29,4 +29,7 @@ func main() {
   fmt.Println("Integer: ", b)
   fmt.Println("Float:   ", c)
   fmt.Println("String:  ", d)
+  
+  
+  
 }
