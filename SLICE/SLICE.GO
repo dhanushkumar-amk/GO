@@ -97,5 +97,6 @@ fmt.Println(array2)
 
 var array3 = []int{1,2,3,4,5,6}
 var arr = append(array3, 7,8,9,10)
+fmt.Println(array2)
 
 }
