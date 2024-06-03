@@ -29,7 +29,7 @@ import ("fmt")
 
 func main() {
   mySlice1 := []int{}  // no value so default integer value is 0
-  fmt.Println(len(mySlice1))  
+  fmt.Println(len(mySlice1))  // 0
   fmt.Println(cap(mySlice1))
   fmt.Println(mySlice1)
 
