@@ -8,3 +8,6 @@ func main() {
   fmt.Printf("i has value: %v and type: %T\n", i, i)
   fmt.Printf("j has value: %v and type: %T", j, j)
 }
+
+// i has value: Hello and type: string
+// j has value: 15 and type: int
