@@ -112,8 +112,8 @@ fmt.Println(array3, len(array3))
 
 numbers := []int{1,2,3,4,5,6,7,8,9,10,11,12,13,14,15}
 // Original slice
-fmt.Println("numbers = %v\n", numbers)
-fmt.Println("length = %d\n", len(numbers))
+fmt.Println("numbers = ", numbers)
+fmt.Println("length = ", len(numbers))
 fmt.Println("capacity = %d\n", cap(numbers))
 
 // Create copy with only needed numbers
@@ -124,5 +124,5 @@ copy(numbersCopy, neededNumbers)
 
 fmt.Println("numbersCopy = ", numbersCopy)
 fmt.Println("length = ", len(numbersCopy))
-fmt.Println("capacity = %d\n", cap(numbersCopy))
+fmt.Println("capacity = ", cap(numbersCopy))
 }
