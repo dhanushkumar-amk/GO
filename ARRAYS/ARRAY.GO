@@ -129,6 +129,9 @@ fmt.Println(arr7)
 
 // [0 10 40 0 0]
 
+// 1:10 means: assign 10 to array index 1 (second element).
+// 2:40 means: assign 40 to array index 2 (third element).
+
 }
  
  
