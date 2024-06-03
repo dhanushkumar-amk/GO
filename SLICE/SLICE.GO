@@ -53,6 +53,6 @@ fmt.Println("length = ", len(myslice3))
 fmt.Println("capacity = ", cap(myslice3))
 
 // myslice = [12 13]
-// length =  2  here myslice3 length is 2 because 
+// length =  2  here myslice3 length is 2 because it hold only 
 // capacity =  4
 }
