@@ -72,7 +72,7 @@ fmt.Println("person : "   , person)
 
 // without defined length
 
-var person = [3]string{"Dhanush", "sanjayKumar", "ashwin"};
+var personq = [...]string{"Dhanush", "sanjayKumar", "ashwin"};
 fmt.Println("person : "   , person)
 
 
