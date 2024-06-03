@@ -31,6 +31,8 @@ fmt.Println( a * b)// multiplication
 fmt.Println( a / b) // division
 fmt.Println( a % b) // modulus
   
-  // assignment oper
+  // assignment operator
+  var x = 10
+  fmt.Println(x)
 }
 
