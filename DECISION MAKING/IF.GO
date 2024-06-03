@@ -15,7 +15,7 @@ func main() {
     fmt.Println("x is greater than y")
   }
   if x < y {
-    fmt.Println("y is greater than y")
+    fmt.Println("y is greater than x")
 	
   }
 }
