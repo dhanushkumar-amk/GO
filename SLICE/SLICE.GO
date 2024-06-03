@@ -60,6 +60,8 @@ fmt.Println("capacity = ", cap(myslice3))
 
 
 // Access Elements of a Slice
+// You can access a specific slice element by referring to the index number.
+
 
 
 }
