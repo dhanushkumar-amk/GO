@@ -75,7 +75,7 @@ fmt.Println("person : "   , person)
 var person1 = [...]string{"Dhanush", "sanjayKumar", "ashwin"};
 fmt.Println("person : "   , person1)
 
-
+// person :  [Dhanush sanjayKumar ashwin]
 
 }
  
