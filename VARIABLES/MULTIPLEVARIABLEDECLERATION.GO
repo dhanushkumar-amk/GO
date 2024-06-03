@@ -12,7 +12,7 @@ func main() {
   fmt.Println(d)
   
  
- //
+// output:
 // 1
 // 3
 // 5
