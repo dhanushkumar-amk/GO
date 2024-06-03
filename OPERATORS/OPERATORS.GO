@@ -23,7 +23,7 @@ func main() {
 // --	Decrement	Decreases the value of a variable by 1	x--	
 
 
-var a = 
+var a int =10 
 fmt.Println()
   
   
