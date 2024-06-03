@@ -39,6 +39,7 @@ fmt.Println(B)
 // constant variable can't be changed
 const c = 1
 C = 2
+fmt.Println()
 }
 
 
