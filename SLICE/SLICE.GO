@@ -54,5 +54,5 @@ fmt.Println("capacity = ", cap(myslice3))
 
 // myslice = [12 13]
 // length =  2  here myslice3 length is 2 because it hold only twi values
-// capacity =  4  here 
+// capacity =  4  here the end 
 }
