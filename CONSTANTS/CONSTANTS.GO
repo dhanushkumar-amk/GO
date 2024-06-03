@@ -9,3 +9,11 @@
 
 // he value of a constant must be assigned when you declare it.
 
+package main
+import ("fmt")
+
+const PI = 3.14
+
+func main() {
+  fmt.Println(PI)
+}
