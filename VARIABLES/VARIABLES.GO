@@ -21,6 +21,9 @@
 
 
 // Declare Variable
+
+
+
 package main
 import ("fmt")
 
