@@ -42,8 +42,7 @@ func main() {
 func familyName(fname string) {
 	fmt.Println( fname)
   }
-  
-  fmt.Println(familyName("Dhanush"))
+  familyName("Dhanush")
 }
 
 // Naming Rules for Go Functions
