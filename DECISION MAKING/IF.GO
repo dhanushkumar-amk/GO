@@ -1,12 +1,14 @@
 //  the if statement to specify a block of Go code to be executed if a condition is true.
 
-
 // if condition {
-  // code to be executed if condition is true
+// code to be executed if condition is true
 // }
 
 package main
-import ("fmt")
+
+import (
+	"fmt"
+)
 
 func main() {
   x:= 20
@@ -47,7 +49,7 @@ func main() {
     // code to be executed if condition1 and condition2 are both false
 //  }
 
-time := 5
+time := 4
 if time < 10 {
   fmt.Println("Good morning.")
   
