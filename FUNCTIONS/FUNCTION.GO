@@ -20,7 +20,7 @@
 //   code to be executed
 // }
 
-// function dE
+// function example
 
 package main
 import ("fmt")
