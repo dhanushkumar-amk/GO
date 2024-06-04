@@ -95,6 +95,12 @@ for _, val := range fruit { // here _ indicates the there is an index but no val
 
 
 // same as above example if you want only index the put _ to the val place
-ex:
+// ex:
+
+fruits1 := [3]string{"apple", "orange", "banana"}
+
+for idx, _ := range fruits {
+   fmt.Printf("%v\n", idx)
+}
   
 }
