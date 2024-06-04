@@ -53,7 +53,7 @@ func main(){
 		fmt.Println("Sunday")
 	}
 	default : {
-		fmt.Println("Monday")
+		fmt.Println("No weekend days")
 		
 	}
 }
