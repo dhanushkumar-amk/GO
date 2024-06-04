@@ -51,7 +51,7 @@ time := 22
 if time < 10 {
   fmt.Println("Good morning.")
   
-  if()
+  if time < 5
 } else if time < 20 {
   fmt.Println("Good day.")
 } else {
