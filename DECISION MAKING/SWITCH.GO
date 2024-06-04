@@ -34,7 +34,7 @@ func main(){
 	case 1: {
 		fmt.Println("Monday")
 	}
-	case 1: {
+	case 2: {
 		fmt.Println("Monday")
 	}
 }
