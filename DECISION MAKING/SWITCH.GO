@@ -61,6 +61,8 @@ func main(){
 
 
 // It is possible to have multiple values for each case in the switch statement:
+	
+	Syntax :
 	switch expression {
 	case x,y:
 	   code block if expression is evaluated to x or y
