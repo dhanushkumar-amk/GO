@@ -28,5 +28,7 @@ import fmt;
 
 
 func main(){
-    
+    a := 20;
+	
+	
 }
