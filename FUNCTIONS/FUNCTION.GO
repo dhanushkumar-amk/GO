@@ -53,7 +53,7 @@ func main() {
 
 
   familyName("Dhanush")
-  family1(19,"dhanush")
+  familyName("Jenny", 14)
 //   familyName("Dhanush")
 //   familyName("Dhanush")
 }
