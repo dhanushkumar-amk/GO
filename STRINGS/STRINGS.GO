@@ -10,3 +10,5 @@
 // 	member3 datatype;
 // 	...
 //   }
+
+// type 
