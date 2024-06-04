@@ -24,7 +24,7 @@
 
 package main 
 
-import fmt;
+import ("f")mt;
 
 
 func main(){
