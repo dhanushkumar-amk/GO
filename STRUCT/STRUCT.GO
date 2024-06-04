@@ -51,7 +51,7 @@ func main() {
   fmt.Println("Job: ", pers2.job)
   fmt.Println("Salary: ", pers2.salary)
   
-  // We can access as the variable by using . 
+  // We can access as the variable by using .(dot) like object 
   
 }
 
