@@ -83,7 +83,7 @@ for idx, val := range fruits {
 // ex :
  
 fruit := [3]string{"apple", "orange", "banana"}
-for _, val := range fruit { // here _ indicates the there is an index b
+for _, val := range fruit { // here _ indicates the there is an index but no values declare so output only the value
    fmt.Println( val)
    
    // output :
