@@ -40,7 +40,7 @@ func main() {
 //    Parameters and Arguments
 
 func familyName(fname string) {
-	fmt.Println( fname, "Refsnes")
+	fmt.Println( fname)
   }
 }
 
