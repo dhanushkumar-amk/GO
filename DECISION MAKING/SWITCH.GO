@@ -4,7 +4,7 @@
 // The switch statement in Go is similar to the ones in C, C++, Java, JavaScript, and PHP. The difference is that it only runs the matched case so it does not need a break statement.
 
 
-
+?s
 
 
 // switch expression {
