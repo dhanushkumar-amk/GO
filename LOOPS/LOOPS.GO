@@ -79,6 +79,8 @@ for idx, val := range fruits {
 // 2 banana 
 
 
-// if u want to omit the index value the we use [ _ ]  _ for the place of index 
+// if u want to omit the index value the we use [ _ ]  _ for the place of index
+ex :
+ 
   
 }
