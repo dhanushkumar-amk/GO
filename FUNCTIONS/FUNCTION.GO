@@ -26,8 +26,14 @@ package main
 import ("fmt")
 
 // always declare the function outside the main function
+
 func familyName(fname string) { // single parameter
 	fmt.Println( fname)
+  }
+  
+  
+func familyName(fname string, age int) {
+	fmt.Println("Hello", age, "year old", fname, "Refsnes")
   }
   
   
