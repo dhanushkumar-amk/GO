@@ -25,6 +25,7 @@ func main() {
   
   
   
-  The continue Statement
+//   The continue Statement
+
 // The continue statement is used to skip one or more iterations in the loop. It then continues with the next iteration in the loop.
 }
