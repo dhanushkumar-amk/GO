@@ -31,7 +31,7 @@ func main(){
     a := 2;
 	
 	switch a {
-	case 1:
+	case 1: {
 		fmt.Println("Monday")
 	
 case 2 :
