@@ -71,7 +71,7 @@ for i:=0; i < 5; i++ {
 fruits := [3]string{"apple", "orange", "banana"}
 
 for idx, val := range fruits {
-   fmt.Print("%v\t%v\n", idx, val)
+   fmt.Println("%v\t%v\n", idx, val)
 }
   
   
