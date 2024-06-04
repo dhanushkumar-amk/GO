@@ -40,8 +40,8 @@ func main(){
 	case 3: {
 		fmt.Println("WednesDay")
 	}
-	case 1: {
-		fmt.Println("Monday")
+	case 4: {
+		fmt.Println("")
 	}
 }
 }
