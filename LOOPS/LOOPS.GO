@@ -102,5 +102,8 @@ fruits1 := [3]string{"apple", "orange", "banana"}
 for idx, _ := range fruits1 {
    fmt.Printf("%v\n", idx)
 }
+// 0
+1
+2
   
 }
