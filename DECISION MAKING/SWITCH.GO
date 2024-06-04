@@ -28,7 +28,7 @@ import fmt;
 
 
 func main(){
-    a := 20;
+    a := 2;
 	
 	switch a {
 	case condition:
