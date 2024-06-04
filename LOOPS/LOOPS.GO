@@ -19,7 +19,7 @@ package main
 import ("fmt")
 
 func main() {
-  for i=0; i < 5; i++ {
+  for var i=0; i < 5; i++ {
     fmt.Println(i)
   }
 }
