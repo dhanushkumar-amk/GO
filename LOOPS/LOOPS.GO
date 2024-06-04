@@ -7,8 +7,8 @@
 // The for loop loops through a block of code a specified number of times.
 
 
-Syntax :
+// Syntax :
  
-for statement1; statement2; statement3 {
+// for statement1; statement2; statement3 {
 	// code to be executed for each iteration
- }
+//  }
