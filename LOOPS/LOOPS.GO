@@ -80,7 +80,11 @@ for idx, val := range fruits {
 
 
 // if u want to omit the index value the we use [ _ ]  _ for the place of index
-ex :
+// ex :
  
+fruit := [3]string{"apple", "orange", "banana"}
+for _, val := range fruit {
+   fmt.Printf("%v\n", val)
+}
   
 }
