@@ -1,0 +1,1 @@
+// A struct (short for structure) is used to create a collection of members of different data types, into a single variable.
