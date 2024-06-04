@@ -24,4 +24,7 @@
 
 package main 
 
-import {}
+import fmt;
+
+
+fu
