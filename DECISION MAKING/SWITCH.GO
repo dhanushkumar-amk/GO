@@ -30,5 +30,8 @@ import fmt;
 func main(){
     a := 20;
 	
-	
+	switch expression {
+	case condition:
+		
+	}
 }
