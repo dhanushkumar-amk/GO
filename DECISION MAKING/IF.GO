@@ -29,12 +29,12 @@ func main() {
     // code to be executed if condition is false
   // }
   
-  time := 20
-  if (time < 18) {
-    fmt.Println("Good day.")
-  } else {
-    fmt.Println("Good evening.")
-  }
+  // time := 20
+  // if (time < 18) {
+  //   fmt.Println("Good day.")
+  // } else {
+  //   fmt.Println("Good evening.")
+  // }
   
   
   
