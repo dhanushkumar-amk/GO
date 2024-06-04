@@ -25,10 +25,10 @@
 package main
 import ("fmt")
 
+// always declare the function outside the main function
 func familyName(fname string) { // single parameter
 	fmt.Println( fname)
   }
-  // always declare the function outside the main function
   
   
 func myMessage() {
