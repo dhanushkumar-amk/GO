@@ -94,6 +94,6 @@ for _, val := range fruit { // here _ indicates the there is an index but no val
 
 
 
-// sa
+// same as above example if you wantonly
   
 }
