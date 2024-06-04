@@ -57,4 +57,9 @@ func main(){
 		
 	}
 }
+
+
+
+// It is possible to have multiple values for each case in the switch statement:
+	
 }
