@@ -27,4 +27,6 @@ package main
 import fmt;
 
 
-fu
+func main(){
+	
+}
