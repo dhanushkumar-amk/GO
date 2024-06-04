@@ -31,7 +31,7 @@ func main() {
 
 // ex : 
 for i:=0; i < 5; i++ {
-    if i == 3 {  //if i meets  
+    if i == 3 {  //if i meets condition  
       continue
     }
    fmt.Println(i)
