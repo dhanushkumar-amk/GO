@@ -19,7 +19,7 @@ package main
 import ("fmt")
 
 func main() {
-  for  i:='a'; i < 'z'; i {
+  for  i:='a'; i < 'z'; --i {
     fmt.Println(i)
   }
 }
