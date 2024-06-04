@@ -25,7 +25,7 @@
 package main
 import ("fmt")
 
-func familyName(fname string) {
+func familyName(fname string) { // single parametr
 	fmt.Println( fname)
   }
   // always declare the function outside the main function
