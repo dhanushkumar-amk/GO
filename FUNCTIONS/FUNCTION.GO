@@ -10,6 +10,7 @@ To create (often referred to as declare) a function, do the following:
 Use the func keyword.
 Specify a name for the function, followed by parentheses ().
 Finally, add code that defines what the function should do, inside curly braces {}.
+
 Syntax
 func FunctionName() {
   // code to be executed
