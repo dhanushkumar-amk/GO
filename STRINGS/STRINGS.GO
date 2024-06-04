@@ -2,4 +2,11 @@
 
 
 
-// Syntax
+// Syntax for Struct
+
+type struct_name struct {
+	member1 datatype;
+	member2 datatype;
+	member3 datatype;
+	...
+  }
