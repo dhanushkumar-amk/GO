@@ -4,6 +4,8 @@ A function will not execute automatically when a page loads.
 
 A function will be executed by a call to the function.
 
+
+
 Create a Function
 To create (often referred to as declare) a function, do the following:
 
@@ -13,5 +15,5 @@ Finally, add code that defines what the function should do, inside curly braces 
 
 Syntax
 func FunctionName() {
-  // code to be executed
+  code to be executed
 }
