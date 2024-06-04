@@ -47,7 +47,7 @@ func main() {
     // code to be executed if condition1 and condition2 are both false
 //  }
 
-time := 22
+time := 5
 if time < 10 {
   fmt.Println("Good morning.")
   
