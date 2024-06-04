@@ -28,5 +28,5 @@ import fmt;
 
 
 func main(){
-	
+    
 }
