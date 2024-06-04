@@ -39,9 +39,7 @@ func main() {
   
 //    Parameters and Arguments
 
-func familyName(fname string) {
-	fmt.Println( fname)
-  }
+
   familyName("Dhanush")
 }
 
