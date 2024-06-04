@@ -79,6 +79,6 @@ for idx, val := range fruits {
 // 2 banana 
 
 
-// if u want 
+// if u want to omit the 
   
 }
