@@ -48,7 +48,7 @@ for i:=0; i < 5; i++ {
 // ex : 
 for i:=0; i < 5; i++ {
     if i == 3 {
-      break
+      break 
     }
    fmt.Println(i)
   }
