@@ -31,6 +31,15 @@ func myMessage() {
 
 func main() {
   myMessage() // call the function
+  
+  
+  
+  
+  
+  
+//    Parameters and Arguments
+
+
 }
 
 // Naming Rules for Go Functions
