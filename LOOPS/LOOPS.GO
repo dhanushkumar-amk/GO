@@ -46,5 +46,10 @@ for i:=0; i < 5; i++ {
 // The break statement is used to break/terminate the loop execution.
 
 // ex : 
-
+for i:=0; i < 5; i++ {
+    if i == 3 {
+      break
+    }
+   fmt.Println(i)
+  }
 }
