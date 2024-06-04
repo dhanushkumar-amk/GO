@@ -4,7 +4,7 @@
 
 // Syntax for Struct
 
-
+// To declare a structure in Go, use the type and struct keywords:
 
 // type struct_name struct {
 // 	member1 datatype;
