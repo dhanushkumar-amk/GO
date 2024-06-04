@@ -33,7 +33,7 @@ func familyName(fname string) { // single parameter
   
   
 func familyName(fname string, age int) {
-	fmt.Println("Hello", age, "year old", fname)
+	fmt.Println( age, fname)
   }
   
   
