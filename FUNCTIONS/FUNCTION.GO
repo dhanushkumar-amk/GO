@@ -28,7 +28,7 @@ import ("fmt")
 func familyName(fname string) {
 	fmt.Println( fname)
   }
-  // always declare the function outside 
+  // always declare the function outside the main function
   
   
 func myMessage() {
