@@ -84,7 +84,7 @@ for idx, val := range fruits {
  
 fruit := [3]string{"apple", "orange", "banana"}
 for _, val := range fruit {
-   fmt.Printf("%v\n", val)
+   fmt.Printf( val)
 }
   
 }
