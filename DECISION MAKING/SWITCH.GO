@@ -31,7 +31,7 @@ func main(){
     a := 2;
 	
 	switch a {
-	case condition:
+	case 1:
 		
 	}
 }
