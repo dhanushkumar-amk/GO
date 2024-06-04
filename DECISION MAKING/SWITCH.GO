@@ -4,13 +4,16 @@
 // The switch statement in Go is similar to the ones in C, C++, Java, JavaScript, and PHP. The difference is that it only runs the matched case so it does not need a break statement.
 
 
+
+
+
 // switch expression {
 // case x:
    // code block
 // case y:
-//    // code block
+   // code block
 // case z:
 // ...
 // default:
-//    // code block
+   // code block
 // }
