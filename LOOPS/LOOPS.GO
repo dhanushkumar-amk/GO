@@ -86,8 +86,10 @@ fruit := [3]string{"apple", "orange", "banana"}
 for _, val := range fruit {
    fmt.Println( val)
    
-   // outpuut :
-   
+   // output :
+//    apple
+// orange
+// banana
 }
   
 }
