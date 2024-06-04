@@ -99,7 +99,7 @@ for _, val := range fruit { // here _ indicates the there is an index but no val
 
 fruits1 := [3]string{"apple", "orange", "banana"}
 
-for idx, _ := range fruits {
+for idx, _ := range fruits1 {
    fmt.Printf("%v\n", idx)
 }
   
