@@ -28,7 +28,7 @@ import ("fmt")
 func familyName(fname string) {
 	fmt.Println( fname)
   }
-  
+  // always declare the fu
   
   
 func myMessage() {
