@@ -32,7 +32,7 @@ func familyName(fname string) { // single parameter
   }
   
   
-func familyName(fname string, age int) {
+func family1(fname string, age int) {
 	fmt.Println( age, fname) // ew can also pass multiple parameter
   }
   
