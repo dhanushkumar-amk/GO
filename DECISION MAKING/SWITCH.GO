@@ -52,5 +52,9 @@ func main(){
 	case 7: {
 		fmt.Println("Sunday")
 	}
+	default : {
+		fmt.Println("Monday")
+		
+	}
 }
 }
