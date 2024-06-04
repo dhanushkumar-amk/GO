@@ -103,7 +103,7 @@ for idx, _ := range fruits1 {
    fmt.Printf("%v\n", idx)
 }
 // 0
-1
-2
+// 1
+// 2
   
 }
