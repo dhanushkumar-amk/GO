@@ -74,8 +74,8 @@ for idx, val := range fruits {
    fmt.Println( idx, val)
 }
   
-0 apple
-1 orange
-2 banana 
+// 0 apple
+// 1 orange
+// 2 banana 
   
 }
