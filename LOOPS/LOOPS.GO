@@ -48,7 +48,7 @@ for i:=0; i < 5; i++ {
 // ex : 
 for i:=0; i < 5; i++ {
     if i == 3 {
-      break   // here the i comes to meet condition the loop will be termineted
+      break   // here the i comes to meet condition the loop will be terminated
     }
    fmt.Println(i)
   }
