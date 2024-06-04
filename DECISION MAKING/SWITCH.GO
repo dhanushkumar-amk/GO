@@ -65,10 +65,10 @@ func main(){
 	case x,y:
 	   // code block if expression is evaluated to x or y
 	case v,w:
-	   // code block if expression is evaluated to v or w
+	   code block if expression is evaluated to v or w
 	case z:
 	...
 	default:
-	   // code block if expression is not found in any cases
+	   code block if expression is not found in any cases
 	}
 }
