@@ -49,7 +49,7 @@ func main(){
 	case 6: {
 		fmt.Println("Saturday")
 	}
-	case 1: {
+	case 7: {
 		fmt.Println("Monday")
 	}
 }
