@@ -108,8 +108,8 @@ func main() {
 
 
 
-package main
-import ("fmt")
+// package main
+// import ("fmt")
 
 var a int
 var b int = 2
