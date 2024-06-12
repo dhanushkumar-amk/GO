@@ -130,12 +130,9 @@ func main() {
 // package main
 // import ("fmt")
 
-a := 1
+// a := 1
 
-func main() {
-  fmt.Println(a)
-}
+// func main() {
+//   fmt.Println(a)
+// }
 
-const z int = 25;
-
-fmt.Println(z)
