@@ -136,6 +136,6 @@ func main() {
   fmt.Println(a)
 }
 
-const z = 25;
+const z int = 25;
 
 fmt.Println(z)
