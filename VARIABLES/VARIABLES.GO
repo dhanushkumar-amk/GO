@@ -127,8 +127,8 @@ func main() {
 
 // but declare the variable out side the function  using :=  always gives the error
 
-package main
-import ("fmt")
+// package main
+// import ("fmt")
 
 a := 1
 
